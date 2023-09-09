@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Netherlands,1996,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1996,male,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1996,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Netherlands,1996,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1996,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,1996,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1996,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1996,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1996,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,1996,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,1997,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Netherlands,1997,male,35-54,high_population,high_suicides,low_hdi,high_gdp,Boomers
+Netherlands,1997,male,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1997,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1997,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Netherlands,1997,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1997,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1997,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,1997,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1997,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1997,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Netherlands,1997,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,1998,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Netherlands,1998,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1998,male,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1998,male,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,1998,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Netherlands,1998,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1998,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1998,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,1998,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1998,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1998,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,1998,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,1999,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Netherlands,1999,male,35-54,high_population,high_suicides,low_hdi,high_gdp,Boomers
+Netherlands,1999,male,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1999,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1999,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Netherlands,1999,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,1999,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1999,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,1999,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1999,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,1999,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,1999,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2000,male,75+,medium_population,high_suicides,high_hdi,high_gdp,G.I. Generation
+Netherlands,2000,male,35-54,high_population,high_suicides,high_hdi,high_gdp,Boomers
+Netherlands,2000,male,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Netherlands,2000,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Netherlands,2000,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Netherlands,2000,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Netherlands,2000,female,35-54,high_population,medium_suicides,high_hdi,high_gdp,Boomers
+Netherlands,2000,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,G.I. Generation
+Netherlands,2000,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Netherlands,2000,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Netherlands,2000,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Netherlands,2000,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Netherlands,2001,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Netherlands,2001,male,35-54,high_population,high_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2001,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,2001,male,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2001,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2001,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2001,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2001,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2001,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,2001,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2001,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2001,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2002,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Netherlands,2002,male,35-54,high_population,high_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2002,male,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2002,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,2002,female,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2002,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2002,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2002,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2002,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,2002,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2002,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2002,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2003,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Netherlands,2003,male,35-54,high_population,high_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2003,male,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2003,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,2003,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2003,female,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2003,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2003,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2003,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,2003,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2003,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2003,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Netherlands,2004,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Netherlands,2004,male,35-54,high_population,high_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2004,male,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Netherlands,2004,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Netherlands,2004,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Netherlands,2004,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent

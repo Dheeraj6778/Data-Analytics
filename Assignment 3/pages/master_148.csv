@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Latvia,1995,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1995,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1995,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1995,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1996,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1996,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1996,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1996,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1996,female,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1996,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1996,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1996,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1997,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1997,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1997,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1997,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1997,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1997,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Latvia,1997,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1997,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1998,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1998,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1998,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1998,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1998,female,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1998,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Latvia,1998,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1998,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1999,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1999,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1999,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1999,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1999,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1999,female,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1999,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1999,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,2000,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Latvia,2000,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2000,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2000,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Latvia,2000,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2000,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2000,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2000,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2001,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2001,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2001,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2001,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2002,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2002,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2002,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2002,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2003,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2003,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2003,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2003,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials

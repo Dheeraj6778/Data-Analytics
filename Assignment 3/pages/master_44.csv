@@ -1,0 +1,501 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Serbia,2000,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Serbia,2000,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Serbia,2000,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2000,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2001,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2001,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2001,female,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2001,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Serbia,2001,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Serbia,2001,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2001,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2001,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Serbia,2001,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Serbia,2001,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2001,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Serbia,2001,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Serbia,2002,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2002,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2002,female,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2002,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Serbia,2002,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Serbia,2002,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2002,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2002,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Serbia,2002,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Serbia,2002,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2002,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2002,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Serbia,2003,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2003,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2003,female,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2003,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Serbia,2003,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Serbia,2003,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Serbia,2003,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2003,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Serbia,2003,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Serbia,2003,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Serbia,2003,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Serbia,2003,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Serbia,2004,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2004,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2004,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2004,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2004,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2004,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2004,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2004,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2004,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2004,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2004,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2004,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2005,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2005,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2005,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2005,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2005,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2005,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2005,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2005,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2005,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2005,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2005,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2005,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2006,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2006,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2006,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2006,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2006,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2006,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2006,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2006,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2006,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2006,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2006,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2006,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2007,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2007,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2007,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2007,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2007,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2007,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2007,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2007,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2007,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2007,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2007,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2007,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2008,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2008,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2008,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2008,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2008,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2008,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2008,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2008,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2008,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2008,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2008,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2008,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2009,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2009,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2009,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2009,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2009,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2009,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Serbia,2009,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2009,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2009,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2009,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2009,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2009,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2010,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2010,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2010,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2010,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2010,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2010,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Serbia,2010,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2010,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2010,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2010,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2010,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2010,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2011,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2011,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2011,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2011,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2011,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2011,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2011,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2011,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2011,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2011,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2011,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2011,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2012,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2012,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2012,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2012,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2012,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2012,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2012,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2012,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2012,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2012,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2012,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2012,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2013,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2013,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2013,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2013,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2013,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2013,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2013,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2013,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2013,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2013,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2013,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2013,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2014,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2014,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2014,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2014,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2014,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2014,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2014,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2014,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2014,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2014,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2014,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2014,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2015,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2015,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2015,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2015,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Serbia,2015,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2015,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Serbia,2015,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2015,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Serbia,2015,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2015,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Serbia,2015,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Serbia,2015,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,1985,male,35-54,low_population,high_suicides,low_hdi,low_gdp,Silent
+Seychelles,1985,male,15-24,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Seychelles,1985,male,55-74,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Seychelles,1985,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Seychelles,1985,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Seychelles,1985,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Silent
+Seychelles,1985,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Seychelles,1985,female,55-74,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Seychelles,1985,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Seychelles,1985,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Seychelles,1985,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Seychelles,1985,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Seychelles,1986,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,1986,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1986,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,1986,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,1986,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1986,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,1986,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,1986,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1986,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,1986,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1986,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,1986,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,1987,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,1987,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,1987,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1987,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,1987,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,1987,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1987,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,1987,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,1987,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1987,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,1987,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,1987,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Seychelles,2001,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2001,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2001,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2001,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2001,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2001,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2001,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2001,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2001,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2001,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2001,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2001,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2002,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2002,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2002,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2002,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2002,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2002,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2002,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2002,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2002,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2002,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2002,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2002,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2003,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2003,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2003,female,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2003,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2003,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2003,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2003,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2003,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2003,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2003,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2003,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2003,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2004,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2004,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2004,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2004,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2004,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2004,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2004,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2004,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2004,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2004,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2004,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2004,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2005,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2005,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2005,female,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2005,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2005,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2005,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2005,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2005,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2005,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2005,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2005,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2005,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2006,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2006,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2006,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2006,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2006,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2006,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2006,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2006,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2006,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2006,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2006,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2006,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2007,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2007,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2007,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2007,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2007,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2007,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2007,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2007,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2007,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2007,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2007,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2007,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2008,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2008,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2008,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2008,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2008,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2008,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2008,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2008,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2008,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2008,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2008,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2008,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2009,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2009,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2009,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2009,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2009,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2009,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2009,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2009,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2009,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2009,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2009,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2009,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2010,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2010,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2010,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2010,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2010,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2010,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2010,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2010,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2010,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2010,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2010,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2010,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2011,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2011,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2011,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2011,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2011,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2011,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2011,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2011,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2011,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2011,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2011,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2011,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2012,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2012,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2012,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2012,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2012,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2012,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2012,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2012,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2012,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2012,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2012,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2012,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2013,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2013,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2013,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2013,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2013,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2013,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2013,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2013,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2013,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2013,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2013,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2013,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2014,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2014,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2014,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2014,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2014,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2014,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2014,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2014,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2014,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2014,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2014,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2014,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2015,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2015,female,15-24,low_population,high_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2015,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2015,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2015,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2015,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Seychelles,2015,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Seychelles,2015,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2015,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Seychelles,2015,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Seychelles,2015,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Seychelles,2015,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Singapore,1985,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1985,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1985,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1985,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1985,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1985,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1985,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1985,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1985,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1985,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1985,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1985,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1986,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1986,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1986,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1986,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1986,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1986,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1986,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1986,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1986,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1986,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1986,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1986,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1987,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1987,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1987,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1987,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1987,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1987,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1987,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1987,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1987,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1987,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1987,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1987,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1988,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1988,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1988,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1988,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1988,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1988,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1988,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1988,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1988,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1988,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1988,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1988,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1989,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1989,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1989,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1989,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1989,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1989,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1989,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1989,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1989,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1989,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1989,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1989,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1990,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1990,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1990,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1990,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1990,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1990,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1990,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1990,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1990,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1990,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1990,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1990,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1991,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1991,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1991,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1991,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Singapore,1991,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1991,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1991,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1991,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1991,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1991,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1991,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Singapore,1991,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Singapore,1992,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1992,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1992,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1992,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1992,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1992,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1992,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1992,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1992,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Singapore,1992,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Singapore,1992,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Singapore,1992,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Singapore,1993,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1993,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Singapore,1993,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Singapore,1993,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers

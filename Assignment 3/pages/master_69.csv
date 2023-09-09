@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Cuba,2014,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2014,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Cuba,2014,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2014,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2014,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Cuba,2014,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Cuba,2015,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Cuba,2015,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Cuba,2015,male,35-54,high_population,high_suicides,low_hdi,medium_gdp,Generation X
+Cuba,2015,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Cuba,2015,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2015,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Cuba,2015,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2015,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Cuba,2015,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2015,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2015,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Cuba,2015,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Cyprus,1999,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Cyprus,1999,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Cyprus,1999,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Cyprus,1999,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Boomers
+Cyprus,1999,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Cyprus,1999,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Cyprus,1999,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Cyprus,1999,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Cyprus,1999,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Cyprus,1999,male,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Boomers
+Cyprus,1999,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Cyprus,1999,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Cyprus,2000,male,25-34,low_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Cyprus,2000,male,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Cyprus,2000,female,15-24,low_population,low_suicides,high_hdi,medium_gdp,Generation X
+Cyprus,2000,female,25-34,low_population,low_suicides,high_hdi,medium_gdp,Generation X
+Cyprus,2000,female,35-54,medium_population,low_suicides,high_hdi,medium_gdp,Boomers
+Cyprus,2000,female,5-14,low_population,low_suicides,high_hdi,medium_gdp,Millenials
+Cyprus,2000,female,55-74,low_population,low_suicides,high_hdi,medium_gdp,Silent
+Cyprus,2000,female,75+,low_population,low_suicides,high_hdi,medium_gdp,G.I. Generation
+Cyprus,2000,male,15-24,low_population,low_suicides,high_hdi,medium_gdp,Generation X
+Cyprus,2000,male,5-14,low_population,low_suicides,high_hdi,medium_gdp,Millenials
+Cyprus,2000,male,55-74,low_population,low_suicides,high_hdi,medium_gdp,Silent
+Cyprus,2000,male,75+,low_population,low_suicides,high_hdi,medium_gdp,G.I. Generation
+Cyprus,2004,male,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2004,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2004,female,25-34,low_population,medium_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2004,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2004,female,15-24,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2004,female,5-14,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2004,female,55-74,low_population,low_suicides,low_hdi,high_gdp,Silent
+Cyprus,2004,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Cyprus,2004,male,15-24,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2004,male,25-34,low_population,low_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2004,male,5-14,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2004,male,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Cyprus,2005,male,55-74,low_population,medium_suicides,high_hdi,high_gdp,Silent
+Cyprus,2005,female,55-74,low_population,medium_suicides,high_hdi,high_gdp,Silent
+Cyprus,2005,male,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Cyprus,2005,male,25-34,low_population,medium_suicides,high_hdi,high_gdp,Generation X
+Cyprus,2005,male,15-24,low_population,medium_suicides,high_hdi,high_gdp,Millenials
+Cyprus,2005,female,15-24,low_population,medium_suicides,high_hdi,high_gdp,Millenials
+Cyprus,2005,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Cyprus,2005,female,25-34,low_population,low_suicides,high_hdi,high_gdp,Generation X
+Cyprus,2005,female,5-14,low_population,low_suicides,high_hdi,high_gdp,Millenials
+Cyprus,2005,female,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Cyprus,2005,male,5-14,low_population,low_suicides,high_hdi,high_gdp,Millenials
+Cyprus,2005,male,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Cyprus,2006,male,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2006,male,25-34,low_population,medium_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2006,female,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2006,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2006,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2006,female,25-34,low_population,medium_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2006,male,15-24,low_population,medium_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2006,female,15-24,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2006,female,5-14,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2006,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Cyprus,2006,male,5-14,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2006,male,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Cyprus,2007,male,75+,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2007,male,25-34,low_population,medium_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2007,male,15-24,low_population,medium_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2007,male,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2007,female,25-34,low_population,medium_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2007,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2007,female,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2007,female,35-54,medium_population,low_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2007,female,15-24,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2007,female,5-14,low_population,low_suicides,low_hdi,high_gdp,Generation Z
+Cyprus,2007,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Cyprus,2007,male,5-14,low_population,low_suicides,low_hdi,high_gdp,Generation Z
+Cyprus,2008,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2008,male,25-34,low_population,medium_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2008,male,75+,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2008,female,25-34,low_population,medium_suicides,low_hdi,high_gdp,Generation X
+Cyprus,2008,male,15-24,low_population,medium_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2008,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Cyprus,2008,male,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2008,female,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Cyprus,2008,female,15-24,low_population,low_suicides,low_hdi,high_gdp,Millenials
+Cyprus,2008,female,5-14,low_population,low_suicides,low_hdi,high_gdp,Generation Z

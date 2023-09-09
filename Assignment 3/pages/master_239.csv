@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Sri Lanka,1985,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1985,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1985,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1985,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1985,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1985,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1985,female,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1985,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1985,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1985,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1985,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1985,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1986,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1986,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1986,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1986,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1986,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1986,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1986,female,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1986,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1986,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1986,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1986,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1986,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1996,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1996,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1996,male,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1996,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1996,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1996,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1996,female,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1996,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1996,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1996,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1996,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,1996,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,1997,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1997,male,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1997,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1997,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1997,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1997,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1997,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1997,female,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1997,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1997,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1997,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,1997,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,1998,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1998,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1998,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1998,male,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1998,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1998,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1998,female,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1998,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1998,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1998,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1998,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,1998,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,1999,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1999,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1999,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1999,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1999,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1999,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1999,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,1999,female,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,1999,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,1999,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,1999,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,1999,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,2000,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,2000,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2000,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,2000,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,2000,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,2000,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,2000,female,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,2000,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Sri Lanka,2000,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,2000,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2000,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,2000,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,2001,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2001,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2001,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,2001,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,2001,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,2001,female,15-24,high_population,high_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,2001,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Sri Lanka,2001,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2001,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,2001,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2001,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,2001,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Sri Lanka,2002,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2002,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Sri Lanka,2002,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Sri Lanka,2002,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X

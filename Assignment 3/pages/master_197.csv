@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Puerto Rico,1986,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1986,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1986,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1986,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1987,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1987,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1987,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1987,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1987,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1987,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1987,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1987,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1987,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1987,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1987,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1987,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1988,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1988,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1988,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1988,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1988,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1988,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1988,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1988,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1988,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1988,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1988,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1988,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1989,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1989,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1989,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1989,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1989,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1989,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1989,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1989,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1989,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1989,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1989,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1989,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1990,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1990,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1990,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1990,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1990,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1990,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1990,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1990,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1990,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1990,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1990,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1990,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1991,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1991,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1991,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1991,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1991,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1991,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1991,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1991,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1991,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1991,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1991,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Puerto Rico,1991,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Puerto Rico,1992,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1992,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1992,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1992,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1992,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1992,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1992,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1992,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1992,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1992,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1992,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Puerto Rico,1992,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Puerto Rico,1993,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1993,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1993,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1993,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1993,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1993,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1993,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1993,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1993,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1993,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Puerto Rico,1993,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1993,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Puerto Rico,1994,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1994,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1994,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1994,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1994,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1994,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1994,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Puerto Rico,1994,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Puerto Rico,1994,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Puerto Rico,1994,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Puerto Rico,1994,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Puerto Rico,1994,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials

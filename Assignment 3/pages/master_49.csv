@@ -1,0 +1,501 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Sweden,1998,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Sweden,1998,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,1998,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,1998,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Sweden,1998,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Sweden,1998,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,1998,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,1998,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,1998,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,1998,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,1998,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,1998,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,1999,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Sweden,1999,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,1999,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,1999,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,1999,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,1999,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,1999,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Sweden,1999,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,1999,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,1999,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,1999,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,1999,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2000,male,75+,medium_population,high_suicides,high_hdi,high_gdp,G.I. Generation
+Sweden,2000,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2000,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Sweden,2000,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Sweden,2000,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2000,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2000,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Sweden,2000,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,G.I. Generation
+Sweden,2000,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2000,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2000,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Sweden,2000,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Sweden,2001,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2001,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2001,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2001,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Sweden,2001,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2001,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2001,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2001,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2001,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2001,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2001,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2001,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2002,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2002,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2002,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2002,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Sweden,2002,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2002,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2002,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2002,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2002,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2002,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2002,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2002,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2003,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2003,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2003,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2003,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2003,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2003,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2003,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2003,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2003,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2003,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2003,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2003,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2004,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2004,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2004,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2004,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2004,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2004,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2004,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2004,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2004,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2004,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2004,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2004,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2005,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2005,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2005,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Sweden,2005,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2005,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2005,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2005,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Sweden,2005,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2005,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2005,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2005,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Sweden,2005,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Sweden,2006,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2006,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2006,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2006,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2006,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2006,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2006,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2006,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2006,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2006,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2006,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2006,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Sweden,2007,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2007,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2007,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2007,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Sweden,2007,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2007,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2007,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2007,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2007,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2007,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2007,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2007,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2008,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2008,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2008,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2008,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2008,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2008,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2008,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2008,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2008,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2008,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2008,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2008,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2009,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2009,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2009,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2009,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Sweden,2009,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2009,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2009,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2009,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2009,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2009,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2009,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2009,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2010,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2010,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2010,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Sweden,2010,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Sweden,2010,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2010,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2010,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2010,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2010,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2010,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2010,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2010,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2011,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2011,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Sweden,2011,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Sweden,2011,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Millenials
+Sweden,2011,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2011,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Sweden,2011,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2011,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2011,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2011,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2011,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2011,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2012,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2012,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Sweden,2012,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Sweden,2012,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Millenials
+Sweden,2012,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2012,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2012,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2012,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Sweden,2012,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2012,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2012,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2012,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2013,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2013,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Sweden,2013,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Sweden,2013,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Millenials
+Sweden,2013,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2013,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2013,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Sweden,2013,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2013,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2013,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2013,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2013,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2014,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Sweden,2014,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Sweden,2014,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Sweden,2014,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Millenials
+Sweden,2014,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2014,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Sweden,2014,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Sweden,2014,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Sweden,2014,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2014,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Sweden,2014,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2014,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Sweden,2015,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2015,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2015,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Sweden,2015,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Sweden,2015,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2015,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2015,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2015,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2015,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2015,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2015,female,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2015,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Sweden,2016,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Sweden,2016,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Sweden,2016,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Sweden,2016,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Sweden,2016,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2016,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Sweden,2016,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Sweden,2016,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Sweden,2016,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Sweden,2016,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1995,male,75+,medium_population,high_suicides,high_hdi,high_gdp,G.I. Generation
+Switzerland,1995,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,1995,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Switzerland,1995,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,1995,male,15-24,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,1995,female,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,1995,female,75+,medium_population,high_suicides,high_hdi,high_gdp,G.I. Generation
+Switzerland,1995,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Switzerland,1995,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,1995,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,1995,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Switzerland,1995,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Switzerland,1996,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1996,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,1996,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1996,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1996,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1996,female,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1996,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,1996,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1996,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1996,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1996,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1996,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1997,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1997,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,1997,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1997,female,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1997,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1997,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1997,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Switzerland,1997,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1997,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1997,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1997,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1997,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1998,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1998,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,1998,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1998,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1998,female,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1998,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1998,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Switzerland,1998,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1998,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1998,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1998,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1998,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1999,male,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1999,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,1999,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1999,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1999,female,75+,medium_population,high_suicides,low_hdi,high_gdp,G.I. Generation
+Switzerland,1999,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1999,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Switzerland,1999,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,1999,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1999,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,1999,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,1999,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2000,male,75+,medium_population,high_suicides,high_hdi,high_gdp,G.I. Generation
+Switzerland,2000,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2000,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2000,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2000,female,75+,medium_population,high_suicides,high_hdi,high_gdp,G.I. Generation
+Switzerland,2000,male,15-24,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2000,female,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2000,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2000,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2000,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2000,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2000,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2001,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2001,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2001,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2001,female,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2001,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2001,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2001,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2001,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2001,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2001,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2001,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2001,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2002,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2002,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2002,female,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2002,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2002,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2002,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2002,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2002,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2002,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2002,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2002,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2002,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2003,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2003,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2003,female,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2003,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2003,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2003,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2003,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2003,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2003,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2003,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2003,female,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2003,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2004,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2004,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2004,female,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2004,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2004,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2004,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2004,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2004,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2004,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2004,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2004,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2004,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2005,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2005,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2005,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2005,female,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2005,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2005,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2005,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Switzerland,2005,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2005,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2005,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2005,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2005,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2006,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2006,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2006,female,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2006,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2006,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2006,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2006,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2006,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2006,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2006,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2006,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2006,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2007,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2007,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2007,female,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2007,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2007,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2007,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2007,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2007,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2007,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2007,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2007,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Switzerland,2007,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Switzerland,2008,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2008,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2008,female,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2008,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2008,female,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2008,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2008,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2008,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2008,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2008,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2008,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Switzerland,2008,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Switzerland,2009,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2009,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2009,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2009,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2009,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2009,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Switzerland,2009,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Switzerland,2009,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2009,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2009,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2009,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Switzerland,2009,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Switzerland,2010,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2010,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2010,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2010,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2010,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Switzerland,2010,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2010,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Switzerland,2010,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2010,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2010,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2010,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2010,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2011,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2011,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2011,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2011,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2011,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2011,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Switzerland,2011,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2011,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2011,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2011,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2011,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2011,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2012,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2012,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2012,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2012,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2012,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2012,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2012,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Switzerland,2012,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2012,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2012,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2012,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2012,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2013,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2013,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2013,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2013,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2013,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2013,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2013,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Switzerland,2013,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2013,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2013,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2013,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2013,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2014,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Switzerland,2014,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2014,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2014,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2014,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Switzerland,2014,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2014,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Switzerland,2014,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Switzerland,2014,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2014,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Switzerland,2014,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2014,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Switzerland,2015,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Switzerland,2015,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2015,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2015,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2015,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2015,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Switzerland,2015,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Switzerland,2015,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Switzerland,2015,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2015,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Switzerland,2015,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Switzerland,2015,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Thailand,1985,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1985,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1985,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1985,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1985,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1985,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1985,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1985,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1985,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1985,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1985,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1985,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1986,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1986,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1986,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1986,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1986,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1986,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1986,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1986,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1986,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1986,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation

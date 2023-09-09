@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Maldives,2011,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Maldives,2011,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Maldives,2011,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Maldives,2011,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Maldives,2011,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Maldives,2011,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Maldives,2011,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Maldives,2011,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Maldives,2011,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Maldives,2011,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1985,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1985,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Malta,1985,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1985,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Malta,1985,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1985,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1985,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1985,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1985,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Malta,1985,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1985,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1985,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1986,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1986,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1986,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1986,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1986,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1986,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1986,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1986,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Malta,1986,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1986,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1986,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1986,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1987,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1987,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1987,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Malta,1987,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1987,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1987,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1987,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1987,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1987,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Malta,1987,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1987,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1987,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1988,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1988,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Malta,1988,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Malta,1988,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1988,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1988,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1988,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1988,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1988,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1988,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1988,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1988,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1989,male,15-24,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Malta,1989,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1989,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1989,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1989,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Malta,1989,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1989,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Malta,1989,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1989,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1989,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1989,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1989,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1990,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Malta,1990,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Malta,1990,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1990,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1990,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1990,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Malta,1990,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1990,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1990,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1990,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1990,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1990,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1991,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Malta,1991,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1991,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1991,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1991,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Malta,1991,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Malta,1991,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Malta,1991,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1991,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1991,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Malta,1991,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Malta,1991,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1992,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Malta,1992,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Malta,1992,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Malta,1992,female,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Malta,1992,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Malta,1992,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers

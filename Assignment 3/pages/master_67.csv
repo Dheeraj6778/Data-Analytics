@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Cuba,1997,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,1997,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,1998,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Cuba,1998,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,1998,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Cuba,1998,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Cuba,1998,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,1998,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Cuba,1998,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Cuba,1998,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,1998,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,1998,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,1998,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,1998,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,1999,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Cuba,1999,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,1999,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Cuba,1999,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Cuba,1999,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,1999,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Cuba,1999,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,1999,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Cuba,1999,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,1999,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,1999,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,1999,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2000,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Cuba,2000,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2000,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Cuba,2000,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Cuba,2000,female,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Cuba,2000,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2000,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,2000,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Cuba,2000,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,2000,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,2000,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2000,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2001,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2001,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2001,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Cuba,2001,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Cuba,2001,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Cuba,2001,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Cuba,2001,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Cuba,2001,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Cuba,2001,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,2001,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Cuba,2001,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2001,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2002,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2002,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2002,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Cuba,2002,female,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2002,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Cuba,2002,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Cuba,2002,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Cuba,2002,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Cuba,2002,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,2002,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Cuba,2002,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2002,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2003,male,75+,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2003,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Cuba,2003,male,35-54,high_population,high_suicides,low_hdi,low_gdp,Boomers
+Cuba,2003,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Cuba,2003,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Cuba,2003,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Cuba,2003,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Cuba,2003,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Cuba,2003,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Cuba,2003,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Cuba,2003,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2003,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Cuba,2004,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Cuba,2004,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Cuba,2004,male,35-54,high_population,high_suicides,low_hdi,medium_gdp,Boomers
+Cuba,2004,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Cuba,2004,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Cuba,2004,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Cuba,2004,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Cuba,2004,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2004,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Cuba,2004,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2004,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2004,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2005,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Cuba,2005,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Cuba,2005,male,35-54,high_population,high_suicides,low_hdi,medium_gdp,Boomers
+Cuba,2005,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Cuba,2005,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Cuba,2005,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Cuba,2005,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2005,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Cuba,2005,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2005,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Cuba,2005,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2005,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Cuba,2006,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Cuba,2006,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent

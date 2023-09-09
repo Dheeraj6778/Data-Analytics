@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Chile,2013,male,75+,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Chile,2013,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Chile,2013,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Chile,2013,male,35-54,high_population,high_suicides,high_hdi,medium_gdp,Generation X
+Chile,2013,male,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Chile,2013,female,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Chile,2013,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Chile,2013,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Chile,2013,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Chile,2013,female,75+,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Chile,2013,male,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Chile,2013,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Chile,2014,male,75+,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Chile,2014,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Chile,2014,male,35-54,high_population,high_suicides,high_hdi,medium_gdp,Generation X
+Chile,2014,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Chile,2014,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Chile,2014,female,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Chile,2014,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Chile,2014,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Chile,2014,female,55-74,high_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Chile,2014,female,75+,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Chile,2014,male,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Chile,2014,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Chile,2015,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Chile,2015,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Chile,2015,male,35-54,high_population,high_suicides,low_hdi,medium_gdp,Generation X
+Chile,2015,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Chile,2015,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Chile,2015,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Chile,2015,female,55-74,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Chile,2015,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Chile,2015,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Chile,2015,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Chile,2015,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Chile,2015,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Colombia,1985,male,75+,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1985,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1985,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1985,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1985,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1985,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1985,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1985,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1985,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1985,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1985,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1985,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1986,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1986,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1986,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1986,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1986,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1986,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1986,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1986,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1986,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1986,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1986,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1986,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1987,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1987,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1987,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1987,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1987,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1987,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1987,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1987,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1987,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1987,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1987,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1987,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1988,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1988,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1988,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1988,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1988,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1988,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1988,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1988,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1988,female,35-54,high_population,low_suicides,low_hdi,low_gdp,Silent
+Colombia,1988,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1988,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1988,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1989,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1989,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1989,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1989,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1989,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1989,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1989,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Colombia,1989,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1989,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Colombia,1989,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1989,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1989,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Colombia,1990,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1990,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Colombia,1990,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Colombia,1990,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers

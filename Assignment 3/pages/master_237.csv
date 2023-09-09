@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Spain,1999,female,75+,high_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Spain,1999,female,55-74,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Spain,1999,male,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,1999,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Spain,1999,female,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,1999,female,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,1999,male,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,1999,female,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,2000,male,75+,medium_population,high_suicides,high_hdi,medium_gdp,G.I. Generation
+Spain,2000,male,55-74,high_population,high_suicides,high_hdi,medium_gdp,Silent
+Spain,2000,male,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Spain,2000,male,25-34,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Spain,2000,female,75+,high_population,medium_suicides,high_hdi,medium_gdp,G.I. Generation
+Spain,2000,male,15-24,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Spain,2000,female,55-74,high_population,medium_suicides,high_hdi,medium_gdp,Silent
+Spain,2000,female,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Spain,2000,female,25-34,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Spain,2000,female,15-24,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Spain,2000,male,5-14,high_population,low_suicides,high_hdi,medium_gdp,Millenials
+Spain,2000,female,5-14,high_population,low_suicides,high_hdi,medium_gdp,Millenials
+Spain,2001,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Spain,2001,male,55-74,high_population,high_suicides,low_hdi,medium_gdp,Silent
+Spain,2001,male,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Spain,2001,male,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,2001,female,75+,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Spain,2001,male,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Spain,2001,female,55-74,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Spain,2001,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Spain,2001,female,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,2001,female,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Spain,2001,male,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,2001,female,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,2002,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Spain,2002,male,55-74,high_population,high_suicides,low_hdi,medium_gdp,Silent
+Spain,2002,male,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Spain,2002,male,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,2002,female,75+,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Spain,2002,male,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Spain,2002,female,55-74,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Spain,2002,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Spain,2002,female,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,2002,female,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Spain,2002,male,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,2002,female,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,2003,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Spain,2003,male,55-74,high_population,high_suicides,low_hdi,medium_gdp,Silent
+Spain,2003,male,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Spain,2003,male,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,2003,female,75+,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Spain,2003,male,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Spain,2003,female,55-74,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Spain,2003,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Spain,2003,female,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Spain,2003,female,15-24,high_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Spain,2003,male,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,2003,female,5-14,high_population,low_suicides,low_hdi,medium_gdp,Millenials
+Spain,2004,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Spain,2004,male,55-74,high_population,high_suicides,low_hdi,high_gdp,Silent
+Spain,2004,male,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Spain,2004,male,25-34,high_population,medium_suicides,low_hdi,high_gdp,Generation X
+Spain,2004,female,75+,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Spain,2004,male,15-24,high_population,medium_suicides,low_hdi,high_gdp,Millenials
+Spain,2004,female,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Spain,2004,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Spain,2004,female,25-34,high_population,medium_suicides,low_hdi,high_gdp,Generation X
+Spain,2004,female,15-24,high_population,medium_suicides,low_hdi,high_gdp,Millenials
+Spain,2004,male,5-14,high_population,low_suicides,low_hdi,high_gdp,Millenials
+Spain,2004,female,5-14,high_population,low_suicides,low_hdi,high_gdp,Millenials
+Spain,2005,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Spain,2005,male,55-74,high_population,high_suicides,high_hdi,high_gdp,Silent
+Spain,2005,male,35-54,high_population,medium_suicides,high_hdi,high_gdp,Boomers
+Spain,2005,male,25-34,high_population,medium_suicides,high_hdi,high_gdp,Generation X
+Spain,2005,female,75+,high_population,medium_suicides,high_hdi,high_gdp,Silent
+Spain,2005,female,55-74,high_population,medium_suicides,high_hdi,high_gdp,Silent
+Spain,2005,male,15-24,high_population,medium_suicides,high_hdi,high_gdp,Millenials
+Spain,2005,female,35-54,high_population,medium_suicides,high_hdi,high_gdp,Boomers
+Spain,2005,female,25-34,high_population,medium_suicides,high_hdi,high_gdp,Generation X
+Spain,2005,female,15-24,high_population,medium_suicides,high_hdi,high_gdp,Millenials
+Spain,2005,male,5-14,high_population,low_suicides,high_hdi,high_gdp,Millenials
+Spain,2005,female,5-14,high_population,low_suicides,high_hdi,high_gdp,Millenials
+Spain,2006,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Spain,2006,male,55-74,high_population,high_suicides,low_hdi,high_gdp,Silent
+Spain,2006,male,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Spain,2006,male,25-34,high_population,medium_suicides,low_hdi,high_gdp,Generation X
+Spain,2006,female,75+,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Spain,2006,male,15-24,high_population,medium_suicides,low_hdi,high_gdp,Millenials
+Spain,2006,female,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Spain,2006,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Spain,2006,female,25-34,high_population,medium_suicides,low_hdi,high_gdp,Generation X
+Spain,2006,female,15-24,high_population,medium_suicides,low_hdi,high_gdp,Millenials
+Spain,2006,female,5-14,high_population,low_suicides,low_hdi,high_gdp,Millenials
+Spain,2006,male,5-14,high_population,low_suicides,low_hdi,high_gdp,Millenials
+Spain,2007,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Spain,2007,male,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Spain,2007,male,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
+Spain,2007,male,25-34,high_population,medium_suicides,low_hdi,high_gdp,Generation X
+Spain,2007,female,75+,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Spain,2007,female,55-74,high_population,medium_suicides,low_hdi,high_gdp,Silent
+Spain,2007,male,15-24,high_population,medium_suicides,low_hdi,high_gdp,Millenials
+Spain,2007,female,35-54,high_population,medium_suicides,low_hdi,high_gdp,Boomers
