@@ -1,0 +1,501 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Panama,2010,female,25-34,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Panama,2010,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2010,female,55-74,medium_population,low_suicides,low_hdi,medium_gdp,Silent
+Panama,2010,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2011,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Panama,2011,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Panama,2011,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Panama,2011,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2011,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2011,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2011,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2011,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Panama,2011,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Panama,2011,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2011,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Panama,2011,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2012,male,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Panama,2012,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Panama,2012,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2012,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2012,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Panama,2012,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2012,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2012,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Panama,2012,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Panama,2012,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2012,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2012,female,55-74,medium_population,low_suicides,low_hdi,medium_gdp,Boomers
+Panama,2013,male,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Panama,2013,male,75+,low_population,medium_suicides,high_hdi,medium_gdp,Silent
+Panama,2013,male,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Panama,2013,male,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Panama,2013,male,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Panama,2013,female,75+,low_population,medium_suicides,high_hdi,medium_gdp,Silent
+Panama,2013,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Panama,2013,female,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Panama,2013,female,55-74,medium_population,low_suicides,high_hdi,medium_gdp,Boomers
+Panama,2013,male,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Panama,2013,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Panama,2013,female,25-34,medium_population,low_suicides,high_hdi,medium_gdp,Millenials
+Panama,2014,male,75+,low_population,medium_suicides,high_hdi,medium_gdp,Silent
+Panama,2014,male,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Panama,2014,male,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Panama,2014,male,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Panama,2014,male,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Panama,2014,female,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Panama,2014,female,75+,low_population,medium_suicides,high_hdi,medium_gdp,Silent
+Panama,2014,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Panama,2014,male,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Panama,2014,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Panama,2014,female,55-74,medium_population,low_suicides,high_hdi,medium_gdp,Boomers
+Panama,2014,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Panama,2015,male,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Panama,2015,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2015,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Panama,2015,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Panama,2015,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2015,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2015,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Panama,2015,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Panama,2015,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Panama,2015,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2015,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Panama,2015,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Paraguay,1985,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1985,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1985,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1985,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1985,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1985,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1985,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1985,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1985,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1985,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1985,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1985,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1986,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1986,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1986,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1986,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1986,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1986,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1986,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1986,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1986,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1986,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1986,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1986,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1987,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1987,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1987,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1987,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1987,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1987,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1987,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1987,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1987,female,25-34,medium_population,low_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1987,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1987,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1987,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1989,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1989,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1989,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1989,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1989,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1989,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1989,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1989,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1989,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1989,female,35-54,medium_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,1989,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1989,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1990,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1990,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1990,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1990,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1990,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1990,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1990,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1990,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1990,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1990,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1990,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1990,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1991,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1991,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1991,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1991,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1991,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1991,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1991,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1991,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1991,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1991,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1991,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1991,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1994,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1994,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1994,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1994,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1994,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1994,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1994,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1994,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1994,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1994,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1994,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1994,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1995,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1995,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1995,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1995,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1995,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1995,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1995,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1995,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1995,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1995,female,25-34,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1995,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1995,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1996,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1996,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1996,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1996,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1996,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1996,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1996,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1996,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1996,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1996,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1996,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1996,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1997,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1997,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1997,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1997,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1997,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1997,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1997,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1997,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1997,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1997,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1997,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1997,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1998,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1998,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1998,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1998,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1998,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1998,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1998,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1998,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1998,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1998,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1998,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1998,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1999,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1999,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1999,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1999,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1999,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,1999,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,1999,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1999,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,1999,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,1999,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1999,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,1999,female,25-34,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2000,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2000,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2000,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2000,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2000,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2000,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2000,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,2000,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Paraguay,2000,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2000,female,25-34,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2000,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2000,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2001,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Paraguay,2001,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2001,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2001,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2001,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2001,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2001,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2001,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2001,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2001,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2001,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2001,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2002,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2002,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2002,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2002,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2002,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2002,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2002,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2002,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2002,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2002,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2002,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2002,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,2003,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2003,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2003,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2003,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2003,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2003,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2003,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2003,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2003,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2003,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2003,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,2003,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,2004,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2004,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2004,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2004,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2004,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2004,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2004,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2004,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2004,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2004,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2004,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2004,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2005,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2005,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2005,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2005,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2005,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2005,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2005,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2005,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2005,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2005,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2005,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2005,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,2006,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2006,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2006,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2006,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2006,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2006,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2006,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2006,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2006,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2006,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2006,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2006,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,2007,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Paraguay,2007,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2007,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2007,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2007,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2007,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2007,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2007,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2007,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Paraguay,2007,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2007,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Paraguay,2007,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,2008,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2008,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2008,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2008,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2008,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2008,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2008,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2008,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2008,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2008,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2008,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Paraguay,2008,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Paraguay,2009,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2009,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2009,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2009,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2009,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2009,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Paraguay,2009,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Paraguay,2009,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Paraguay,2009,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Paraguay,2009,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Paraguay,2009,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Paraguay,2009,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Paraguay,2010,male,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2010,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2010,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2010,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2010,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2010,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2010,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2010,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2010,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2010,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2010,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2010,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2011,male,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2011,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2011,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2011,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2011,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2011,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2011,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2011,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2011,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2011,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2011,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2011,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2012,male,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2012,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2012,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2012,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2012,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2012,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2012,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2012,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2012,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2012,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2012,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2012,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2013,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2013,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2013,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2013,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2013,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2013,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2013,female,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2013,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2013,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2013,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2013,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2013,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2014,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2014,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2014,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2014,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2014,male,75+,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Paraguay,2014,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2014,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Paraguay,2014,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Paraguay,2014,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Paraguay,2014,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2014,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Paraguay,2014,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Philippines,1992,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1992,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,1992,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1992,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1992,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1992,female,15-24,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Philippines,1992,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1992,female,35-54,high_population,low_suicides,low_hdi,low_gdp,Boomers
+Philippines,1992,female,55-74,high_population,low_suicides,low_hdi,low_gdp,Silent
+Philippines,1992,female,25-34,high_population,low_suicides,low_hdi,low_gdp,Boomers
+Philippines,1992,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1992,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1993,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1993,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1993,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1993,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1993,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1993,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1993,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,1993,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1993,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,1993,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1993,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1993,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1997,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1997,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1997,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,1997,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1997,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1997,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1997,female,25-34,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Philippines,1997,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1997,female,35-54,high_population,low_suicides,low_hdi,low_gdp,Boomers
+Philippines,1997,female,55-74,high_population,low_suicides,low_hdi,low_gdp,Silent
+Philippines,1997,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1997,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1998,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1998,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1998,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,1998,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1998,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1998,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1998,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1998,female,55-74,high_population,low_suicides,low_hdi,low_gdp,Silent
+Philippines,1998,female,35-54,high_population,low_suicides,low_hdi,low_gdp,Boomers
+Philippines,1998,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1998,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1998,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1999,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1999,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,1999,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1999,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1999,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,1999,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,1999,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1999,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,1999,female,55-74,high_population,low_suicides,low_hdi,low_gdp,Silent
+Philippines,1999,female,35-54,high_population,low_suicides,low_hdi,low_gdp,Boomers
+Philippines,1999,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,1999,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2000,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,2000,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2000,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2000,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2000,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2000,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Philippines,2000,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2000,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2000,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2000,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2000,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2000,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2001,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2001,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2001,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2001,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Philippines,2001,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2001,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Philippines,2001,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2001,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2001,female,25-34,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Philippines,2001,female,75+,medium_population,low_suicides,low_hdi,low_gdp,Silent
+Philippines,2001,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2001,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2002,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2002,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2002,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Philippines,2002,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2002,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2002,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2002,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Philippines,2002,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2002,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2002,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2002,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2002,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2003,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2003,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2003,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2003,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2003,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Philippines,2003,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2003,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Philippines,2003,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2003,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Philippines,2003,female,55-74,high_population,low_suicides,low_hdi,low_gdp,Silent
+Philippines,2003,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2003,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Philippines,2006,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2006,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Philippines,2006,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Philippines,2006,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials

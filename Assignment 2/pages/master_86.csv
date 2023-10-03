@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Estonia,2015,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Estonia,2015,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Estonia,2015,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Estonia,2015,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Estonia,2015,female,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Estonia,2015,male,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Fiji,2001,male,55-74,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Fiji,2001,male,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Fiji,2001,male,15-24,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2001,male,25-34,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Fiji,2001,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2001,female,25-34,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Fiji,2001,female,55-74,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Fiji,2001,male,5-14,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2001,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Fiji,2001,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Fiji,2001,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Fiji,2001,male,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Fiji,2002,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Fiji,2002,female,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Fiji,2002,male,55-74,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Fiji,2002,male,15-24,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2002,female,25-34,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Fiji,2002,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2002,male,25-34,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Fiji,2002,male,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Fiji,2002,female,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Fiji,2002,male,5-14,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2002,female,5-14,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2002,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Fiji,2003,male,55-74,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Fiji,2003,male,15-24,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2003,female,25-34,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Fiji,2003,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Fiji,2003,female,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Fiji,2003,male,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Fiji,2003,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Fiji,2003,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Fiji,2003,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Fiji,2003,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Fiji,2003,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Fiji,2003,male,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Fiji,2004,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Fiji,2004,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Fiji,2004,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2004,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2004,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2004,female,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Fiji,2004,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2004,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2004,female,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2004,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2004,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2004,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2005,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Fiji,2005,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2005,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2005,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2005,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2005,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Fiji,2005,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2005,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2005,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2005,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2005,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2005,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2006,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2006,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2006,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2006,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2006,female,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2006,female,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Fiji,2006,male,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2006,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2006,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2006,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2006,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2006,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2007,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Fiji,2007,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2007,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2007,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2007,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2007,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2007,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2007,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Fiji,2007,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2007,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2007,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Fiji,2007,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Fiji,2008,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2008,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2008,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Fiji,2008,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Fiji,2008,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2008,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Fiji,2008,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Fiji,2008,female,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Fiji,2008,female,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Fiji,2008,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent

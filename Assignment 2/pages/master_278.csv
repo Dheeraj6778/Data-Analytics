@@ -1,0 +1,21 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Uzbekistan,2013,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Uzbekistan,2013,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Uzbekistan,2013,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Uzbekistan,2013,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Uzbekistan,2013,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Uzbekistan,2013,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Uzbekistan,2013,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Uzbekistan,2013,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Uzbekistan,2014,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Uzbekistan,2014,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Uzbekistan,2014,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Uzbekistan,2014,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Uzbekistan,2014,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Uzbekistan,2014,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Uzbekistan,2014,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Uzbekistan,2014,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Uzbekistan,2014,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Uzbekistan,2014,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Uzbekistan,2014,female,5-14,high_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Uzbekistan,2014,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers

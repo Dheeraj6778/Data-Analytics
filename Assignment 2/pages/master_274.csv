@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Uruguay,2002,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2002,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2002,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2002,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2002,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2002,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2002,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2002,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2002,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2002,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2002,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2002,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2003,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2003,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2003,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2003,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2003,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2003,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2003,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2003,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2003,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2003,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2003,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2003,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2004,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2004,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2004,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2004,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2004,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2004,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2004,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2004,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2004,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2004,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2004,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2004,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2005,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2005,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2005,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2005,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2005,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2005,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2005,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2005,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2005,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2005,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2005,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2005,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2006,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2006,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2006,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2006,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2006,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2006,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2006,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2006,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2006,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2006,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2006,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2006,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2007,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2007,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2007,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2007,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2007,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2007,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2007,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2007,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2007,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2007,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2007,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Uruguay,2007,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Uruguay,2008,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2008,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2008,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2008,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2008,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2008,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2008,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2008,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2008,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2008,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2008,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Uruguay,2008,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Uruguay,2009,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2009,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2009,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2009,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2009,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2009,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2009,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Uruguay,2009,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Uruguay,2009,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Uruguay,2009,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Uruguay,2009,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Uruguay,2009,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Uruguay,2010,male,75+,low_population,high_suicides,high_hdi,medium_gdp,Silent
+Uruguay,2010,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Uruguay,2010,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Generation X
+Uruguay,2010,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials

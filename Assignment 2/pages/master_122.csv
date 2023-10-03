@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Ireland,1997,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Ireland,1997,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Ireland,1997,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Ireland,1997,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Ireland,1997,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Ireland,1997,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Ireland,1997,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Ireland,1997,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Ireland,1997,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Ireland,1997,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Ireland,1997,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Ireland,1997,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Ireland,1998,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,1998,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,1998,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Ireland,1998,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Ireland,1998,male,75+,low_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Ireland,1998,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Ireland,1998,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,1998,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,1998,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,1998,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Ireland,1998,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,1998,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,1999,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,1999,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,1999,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Ireland,1999,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Ireland,1999,male,75+,low_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Ireland,1999,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,1999,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,1999,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,1999,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Ireland,1999,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,G.I. Generation
+Ireland,1999,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,1999,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2000,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Ireland,2000,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Ireland,2000,male,15-24,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Ireland,2000,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Ireland,2000,male,75+,low_population,medium_suicides,high_hdi,high_gdp,G.I. Generation
+Ireland,2000,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Ireland,2000,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Ireland,2000,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,G.I. Generation
+Ireland,2000,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Ireland,2000,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Ireland,2000,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Ireland,2000,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Ireland,2001,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,2001,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Ireland,2001,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Ireland,2001,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Ireland,2001,male,75+,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2001,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Ireland,2001,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2001,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Ireland,2001,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,2001,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2001,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2001,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2002,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,2002,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Ireland,2002,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Ireland,2002,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Ireland,2002,male,75+,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2002,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,2002,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Ireland,2002,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2002,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Ireland,2002,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2002,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2002,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2003,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Ireland,2003,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Ireland,2003,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,2003,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Ireland,2003,male,75+,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2003,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Ireland,2003,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2003,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,2003,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Ireland,2003,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2003,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2003,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2004,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Ireland,2004,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Ireland,2004,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Ireland,2004,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Ireland,2004,male,75+,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2004,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Ireland,2004,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2004,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Ireland,2004,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Ireland,2004,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Ireland,2004,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2004,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Ireland,2005,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Ireland,2005,male,15-24,medium_population,high_suicides,high_hdi,high_gdp,Millenials
+Ireland,2005,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Ireland,2005,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent

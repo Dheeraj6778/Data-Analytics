@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Thailand,1986,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1986,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1987,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1987,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1987,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1987,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1987,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1987,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1987,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1987,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1987,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1987,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1987,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1987,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1990,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1990,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1990,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1990,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1990,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1990,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1990,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1990,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1990,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1990,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1990,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1990,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Generation X
+Thailand,1991,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1991,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1991,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1991,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1991,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1991,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1991,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1991,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1991,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1991,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1991,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1991,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1992,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1992,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1992,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1992,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1992,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1992,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1992,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1992,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1992,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1992,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1992,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1992,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1994,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1994,male,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1994,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1994,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1994,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1994,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1994,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1994,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1994,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1994,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1994,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1994,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1995,male,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Thailand,1995,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1995,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1995,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1995,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1995,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1995,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1995,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1995,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1995,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1995,male,5-14,high_population,medium_suicides,low_hdi,low_gdp,Millenials
+Thailand,1995,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1996,male,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Thailand,1996,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Thailand,1996,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1996,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1996,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1996,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1996,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1996,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1996,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1996,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1996,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1996,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1997,male,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Thailand,1997,male,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1997,male,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1997,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1997,male,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1997,female,15-24,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1997,female,25-34,high_population,medium_suicides,low_hdi,low_gdp,Generation X
+Thailand,1997,female,35-54,high_population,medium_suicides,low_hdi,low_gdp,Boomers
+Thailand,1997,female,55-74,high_population,medium_suicides,low_hdi,low_gdp,Silent
+Thailand,1997,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Thailand,1997,female,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1997,male,5-14,high_population,low_suicides,low_hdi,low_gdp,Millenials
+Thailand,1998,male,25-34,high_population,high_suicides,low_hdi,low_gdp,Generation X
+Thailand,1998,male,15-24,high_population,high_suicides,low_hdi,low_gdp,Generation X

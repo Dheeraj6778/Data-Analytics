@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Montenegro,2004,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2004,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2004,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2004,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2004,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2004,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2005,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2005,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2005,female,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2005,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2005,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2005,female,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2005,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2005,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2005,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2005,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2005,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2005,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2006,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2006,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2006,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2006,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2006,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2006,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2006,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2006,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2006,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2006,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2006,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2006,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2007,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2007,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2007,female,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2007,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2007,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2007,female,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2007,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2007,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2007,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2007,male,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Montenegro,2007,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2007,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Montenegro,2008,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2008,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2008,female,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2008,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2008,female,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2008,male,25-34,low_population,high_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2008,female,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2008,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2008,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2008,male,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Montenegro,2008,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2008,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Montenegro,2009,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2009,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2009,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2009,female,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2009,female,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Montenegro,2009,female,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Montenegro,2009,male,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2009,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2009,male,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Montenegro,2009,female,15-24,low_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Montenegro,2009,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Montenegro,2009,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Netherlands,1985,male,75+,medium_population,high_suicides,high_hdi,medium_gdp,G.I. Generation
+Netherlands,1985,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,G.I. Generation
+Netherlands,1985,male,35-54,high_population,high_suicides,high_hdi,medium_gdp,Silent
+Netherlands,1985,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Netherlands,1985,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,G.I. Generation
+Netherlands,1985,female,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Silent
+Netherlands,1985,female,75+,medium_population,medium_suicides,high_hdi,medium_gdp,G.I. Generation
+Netherlands,1985,male,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Netherlands,1985,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Netherlands,1985,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Netherlands,1985,male,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation X
+Netherlands,1985,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation X
+Netherlands,1986,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1986,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1986,male,35-54,high_population,high_suicides,low_hdi,medium_gdp,Silent
+Netherlands,1986,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Netherlands,1986,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1986,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1986,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Netherlands,1986,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Netherlands,1986,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Netherlands,1986,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Netherlands,1986,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Netherlands,1986,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Netherlands,1987,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1987,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1987,male,35-54,high_population,high_suicides,low_hdi,medium_gdp,Silent
+Netherlands,1987,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Netherlands,1987,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1987,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Netherlands,1987,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Silent
+Netherlands,1987,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Netherlands,1987,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Netherlands,1987,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X

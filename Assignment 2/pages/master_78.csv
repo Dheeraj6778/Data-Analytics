@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Ecuador,1993,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1993,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1994,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1994,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1994,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1994,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1994,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1994,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1994,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1994,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1994,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1994,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1994,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1994,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,Silent
+Ecuador,1995,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1995,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1995,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1995,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1995,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1995,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1995,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1995,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1995,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1995,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1995,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1995,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1996,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1996,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1996,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1996,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1996,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1996,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1996,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1996,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1996,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1996,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1996,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1996,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1997,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1997,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1997,male,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1997,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1997,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1997,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1997,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1997,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1997,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1997,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1997,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1997,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1998,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1998,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1998,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1998,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1998,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1998,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1998,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1998,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1998,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1998,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1998,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1998,female,55-74,medium_population,low_suicides,low_hdi,low_gdp,Silent
+Ecuador,1999,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,1999,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1999,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1999,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1999,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1999,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1999,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,1999,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,1999,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,1999,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1999,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,1999,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,2000,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,2000,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,2000,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,2000,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,2000,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,2000,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,2000,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,2000,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,2000,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,2000,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,2000,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Ecuador,2000,female,75+,medium_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Ecuador,2001,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,2001,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,2001,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,2001,male,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,2001,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,2001,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,2001,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Ecuador,2001,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Ecuador,2001,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,2001,female,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Ecuador,2001,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,2001,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,2002,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Ecuador,2002,male,75+,medium_population,medium_suicides,low_hdi,low_gdp,Silent

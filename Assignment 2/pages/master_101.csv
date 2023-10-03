@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Greece,1991,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1991,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1991,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1991,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1991,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1991,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1992,male,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1992,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1992,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1992,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1992,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1992,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1992,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1992,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1992,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1992,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1992,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1992,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1993,male,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1993,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1993,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1993,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1993,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1993,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1993,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1993,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1993,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1993,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1993,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1993,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1994,male,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1994,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1994,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1994,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1994,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1994,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1994,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1994,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1994,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1994,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1994,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1994,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1995,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1995,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1995,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1995,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1995,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1995,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1995,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1995,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1995,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1995,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1995,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1995,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1996,male,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1996,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1996,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1996,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1996,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1996,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1996,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1996,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1996,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1996,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1996,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1996,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1997,male,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1997,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1997,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1997,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1997,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1997,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1997,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1997,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1997,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1997,female,25-34,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1997,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1997,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1998,male,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1998,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1998,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1998,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1998,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1998,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1998,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1998,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1998,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1998,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Greece,1998,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1998,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Greece,1999,male,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1999,male,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1999,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1999,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1999,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1999,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Greece,1999,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Greece,1999,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Greece,1999,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Greece,1999,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X

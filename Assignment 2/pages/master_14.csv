@@ -1,0 +1,1001 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Kazakhstan,2012,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2012,male,35-54,high_population,high_suicides,high_hdi,medium_gdp,Generation X
+Kazakhstan,2012,male,75+,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Kazakhstan,2012,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Kazakhstan,2012,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2012,female,75+,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Kazakhstan,2012,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2012,female,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Kazakhstan,2012,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2012,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Kazakhstan,2012,male,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Kazakhstan,2012,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Kazakhstan,2013,male,75+,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Kazakhstan,2013,male,35-54,high_population,high_suicides,high_hdi,medium_gdp,Generation X
+Kazakhstan,2013,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2013,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Kazakhstan,2013,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2013,female,75+,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Kazakhstan,2013,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2013,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2013,female,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Kazakhstan,2013,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Kazakhstan,2013,male,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Kazakhstan,2013,female,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Kazakhstan,2014,male,35-54,high_population,high_suicides,high_hdi,medium_gdp,Generation X
+Kazakhstan,2014,male,75+,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Kazakhstan,2014,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2014,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Kazakhstan,2014,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2014,female,75+,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Kazakhstan,2014,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2014,female,25-34,high_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Kazakhstan,2014,female,35-54,high_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Kazakhstan,2014,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Kazakhstan,2014,male,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Kazakhstan,2014,female,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Generation Z
+Kazakhstan,2015,male,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Kazakhstan,2015,male,35-54,high_population,high_suicides,low_hdi,medium_gdp,Generation X
+Kazakhstan,2015,male,25-34,high_population,high_suicides,low_hdi,medium_gdp,Millenials
+Kazakhstan,2015,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Kazakhstan,2015,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Kazakhstan,2015,female,75+,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kazakhstan,2015,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Kazakhstan,2015,female,35-54,high_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kazakhstan,2015,female,25-34,high_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Kazakhstan,2015,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kazakhstan,2015,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Kazakhstan,2015,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Kiribati,1991,male,15-24,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1991,male,55-74,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kiribati,1991,male,25-34,low_population,high_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1991,male,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1991,female,25-34,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1991,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1991,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1991,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1991,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1991,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1991,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1991,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1992,female,55-74,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kiribati,1992,male,15-24,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1992,male,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1992,female,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1992,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1992,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1992,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1992,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1992,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1992,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1992,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1992,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1993,male,35-54,low_population,high_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1993,male,15-24,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1993,male,55-74,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kiribati,1993,male,25-34,low_population,high_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1993,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1993,female,5-14,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1993,male,5-14,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1993,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1993,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1993,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1993,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1993,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1994,male,35-54,low_population,high_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1994,male,15-24,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1994,male,25-34,low_population,high_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1994,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1994,female,5-14,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1994,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1994,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1994,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1994,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1994,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1994,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1994,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1995,male,55-74,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kiribati,1995,male,15-24,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1995,female,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1995,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1995,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1995,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1995,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1995,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1995,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1995,male,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1995,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1995,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1996,male,5-14,low_population,high_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1996,female,25-34,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1996,female,15-24,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1996,male,15-24,low_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1996,female,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1996,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1996,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1996,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1996,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1996,male,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1996,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1996,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1997,male,25-34,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1997,male,15-24,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1997,male,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1997,female,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1997,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1997,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1997,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1997,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1997,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1997,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1997,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1997,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1998,male,15-24,low_population,high_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1998,male,35-54,low_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1998,male,5-14,low_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1998,female,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1998,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1998,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1998,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1998,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1998,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1998,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1998,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1998,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1999,female,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1999,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1999,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1999,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1999,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1999,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,1999,male,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1999,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,1999,male,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,1999,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,1999,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,1999,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,2000,female,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,2000,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,2000,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,2000,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,2000,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,2000,female,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,2000,male,15-24,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,2000,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,2000,male,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,2000,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,2000,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,2000,male,75+,low_population,low_suicides,low_hdi,low_gdp,G.I. Generation
+Kiribati,2001,female,15-24,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,2001,female,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,2001,female,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,2001,female,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,2001,female,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,2001,female,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,2001,male,15-24,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,2001,male,25-34,low_population,low_suicides,low_hdi,low_gdp,Generation X
+Kiribati,2001,male,35-54,low_population,low_suicides,low_hdi,low_gdp,Boomers
+Kiribati,2001,male,5-14,low_population,low_suicides,low_hdi,low_gdp,Millenials
+Kiribati,2001,male,55-74,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kiribati,2001,male,75+,low_population,low_suicides,low_hdi,low_gdp,Silent
+Kuwait,1985,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1985,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1985,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1985,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1985,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1985,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1985,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1985,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1985,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1985,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1985,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1985,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1986,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1986,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1986,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1986,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1986,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1986,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1986,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1986,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1986,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1986,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1986,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1986,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1987,female,55-74,low_population,medium_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1987,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1987,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1987,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1987,female,25-34,medium_population,low_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1987,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1987,male,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1987,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1987,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1987,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1987,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1987,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1993,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1993,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1993,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1993,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1993,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1993,male,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1993,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1993,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1993,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1993,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1993,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1993,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1994,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1994,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1994,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1994,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1994,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1994,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1994,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1994,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1994,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1994,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1994,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1994,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1995,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1995,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1995,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1995,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1995,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1995,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1995,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1995,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1995,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1995,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1995,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1995,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1996,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1996,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1996,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1996,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1996,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1996,male,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1996,female,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1996,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1996,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1996,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1996,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1996,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1997,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1997,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1997,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1997,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1997,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1997,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1997,male,35-54,medium_population,low_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1997,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1997,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1997,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1997,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1997,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1998,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1998,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1998,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1998,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1998,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1998,male,55-74,low_population,medium_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1998,male,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1998,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1998,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1998,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1998,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1998,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1999,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1999,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1999,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1999,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,1999,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1999,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,1999,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1999,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,1999,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1999,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,1999,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,1999,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Kuwait,2000,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Kuwait,2000,male,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Kuwait,2000,male,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Kuwait,2000,male,55-74,low_population,medium_suicides,high_hdi,medium_gdp,Silent
+Kuwait,2000,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Kuwait,2000,male,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Kuwait,2000,female,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Kuwait,2000,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Millenials
+Kuwait,2000,female,55-74,low_population,low_suicides,high_hdi,medium_gdp,Silent
+Kuwait,2000,female,75+,low_population,low_suicides,high_hdi,medium_gdp,G.I. Generation
+Kuwait,2000,male,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Millenials
+Kuwait,2000,male,75+,low_population,low_suicides,high_hdi,medium_gdp,G.I. Generation
+Kuwait,2001,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,2001,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,2001,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,2001,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2001,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,2001,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2001,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2001,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2001,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2001,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2001,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2001,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2002,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,2002,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,2002,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2002,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,2002,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,2002,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2002,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2002,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2002,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2002,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2002,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2002,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2003,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,2003,male,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,2003,male,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Kuwait,2003,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Kuwait,2003,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2003,male,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2003,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2003,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2003,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2003,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Kuwait,2003,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2003,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Kuwait,2004,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2004,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2004,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2004,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2004,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2004,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2004,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2004,female,55-74,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2004,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2004,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2004,male,55-74,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2004,male,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2005,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2005,male,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2005,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2005,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2005,male,55-74,low_population,medium_suicides,high_hdi,high_gdp,Silent
+Kuwait,2005,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2005,female,35-54,medium_population,low_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2005,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2005,female,55-74,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2005,female,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2005,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2005,male,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2006,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2006,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2006,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2006,female,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Kuwait,2006,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2006,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2006,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2006,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2006,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2006,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2006,male,55-74,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2006,male,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2007,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2007,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2007,male,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Kuwait,2007,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2007,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2007,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2007,female,15-24,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2007,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Kuwait,2007,female,55-74,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2007,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2007,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Kuwait,2007,male,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2008,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2008,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2008,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2008,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2008,female,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Kuwait,2008,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2008,male,55-74,medium_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2008,female,15-24,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2008,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Kuwait,2008,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2008,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Kuwait,2008,male,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2009,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2009,male,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2009,male,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Kuwait,2009,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Kuwait,2009,male,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2009,female,55-74,low_population,medium_suicides,low_hdi,high_gdp,Silent
+Kuwait,2009,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Kuwait,2009,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Kuwait,2009,female,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2009,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Kuwait,2009,male,55-74,medium_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2009,male,75+,low_population,low_suicides,low_hdi,high_gdp,Silent
+Kuwait,2010,male,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Kuwait,2010,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2010,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2010,male,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2010,female,15-24,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2010,female,35-54,medium_population,low_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2010,male,15-24,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2010,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2010,female,55-74,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2010,female,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2010,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2010,male,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2011,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2011,male,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2011,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2011,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2011,female,5-14,medium_population,medium_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2011,male,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2011,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2011,female,15-24,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2011,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2011,female,55-74,low_population,low_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2011,female,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2011,male,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2012,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2012,female,55-74,low_population,medium_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2012,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2012,male,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2012,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2012,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2012,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2012,male,55-74,medium_population,low_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2012,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2012,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2012,female,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2012,male,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2013,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2013,male,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2013,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2013,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2013,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2013,male,35-54,medium_population,low_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2013,male,15-24,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2013,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2013,female,55-74,low_population,low_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2013,female,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2013,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2013,male,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2014,male,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2014,male,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2014,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2014,male,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2014,male,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2014,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Kuwait,2014,female,55-74,low_population,medium_suicides,high_hdi,high_gdp,Boomers
+Kuwait,2014,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Kuwait,2014,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2014,female,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kuwait,2014,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Generation Z
+Kuwait,2014,male,75+,low_population,low_suicides,high_hdi,high_gdp,Silent
+Kyrgyzstan,1990,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1990,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1990,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1990,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1990,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1990,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1990,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1990,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1990,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1990,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1990,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1990,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1991,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1991,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1991,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1991,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1991,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1991,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1991,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1991,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1991,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1991,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1991,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1991,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1992,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1992,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1992,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1992,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1992,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1992,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1992,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1992,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1992,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1992,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1992,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1992,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1993,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1993,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1993,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1993,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1993,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1993,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1993,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1993,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1993,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1993,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1993,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1993,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1994,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1994,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1994,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1994,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1994,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1994,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1994,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1994,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1994,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1994,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1994,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1994,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1995,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1995,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1995,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1995,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1995,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1995,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1995,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1995,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1995,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1995,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1995,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1995,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1996,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1996,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1996,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1996,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1996,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1996,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1996,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1996,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1996,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1996,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1996,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1996,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1997,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1997,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1997,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1997,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1997,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1997,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1997,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1997,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1997,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1997,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1997,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1997,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1998,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1998,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1998,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1998,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1998,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1998,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1998,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1998,female,75+,low_population,medium_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1998,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1998,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1998,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1998,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1999,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1999,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1999,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1999,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1999,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,1999,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1999,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,1999,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1999,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,1999,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,1999,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,1999,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2000,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2000,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2000,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,2000,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2000,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Kyrgyzstan,2000,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2000,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2000,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2000,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2000,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2000,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2000,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2001,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2001,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2001,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2001,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2001,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2001,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2001,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2001,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2001,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2001,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2001,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2001,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2002,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2002,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2002,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2002,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2002,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2002,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2002,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2002,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2002,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2002,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2002,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2002,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2003,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2003,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2003,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2003,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2003,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2003,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2003,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2003,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2003,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2003,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2003,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2003,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2004,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2004,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2004,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2004,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2004,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2004,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2004,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2004,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2004,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2004,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2004,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2004,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2005,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2005,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2005,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2005,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2005,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2005,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2005,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2005,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2005,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2005,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2005,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2005,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2006,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2006,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2006,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2006,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2006,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2006,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2006,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2006,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2006,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2006,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2006,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2006,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2007,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2007,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2007,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2007,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2007,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2007,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2007,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2007,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2007,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2007,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2007,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2007,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2008,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2008,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2008,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2008,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2008,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2008,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2008,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2008,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2008,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2008,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2008,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2008,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2009,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2009,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2009,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2009,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2009,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2009,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2009,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2009,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2009,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2009,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2009,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2009,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2010,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2010,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2010,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2010,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2010,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2010,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2010,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2010,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2010,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2010,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2010,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2010,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2011,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2011,male,75+,low_population,high_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2011,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2011,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2011,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2011,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2011,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2011,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2011,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2011,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2011,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2011,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2012,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2012,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2012,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2012,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2012,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2012,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2012,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2012,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2012,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2012,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2012,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2012,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2013,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2013,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2013,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2013,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2013,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2013,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2013,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2013,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2013,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2013,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2013,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2013,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2014,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2014,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2014,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2014,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2014,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2014,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2014,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2014,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2014,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2014,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2014,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2014,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2015,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2015,male,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2015,male,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2015,male,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2015,male,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2015,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2015,female,75+,low_population,medium_suicides,low_hdi,low_gdp,Silent
+Kyrgyzstan,2015,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Kyrgyzstan,2015,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Kyrgyzstan,2015,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Kyrgyzstan,2015,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Kyrgyzstan,2015,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Generation Z
+Latvia,1995,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1995,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1995,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1995,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1995,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1995,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1995,female,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1995,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1995,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1995,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1995,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1995,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1996,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1996,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1996,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1996,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1996,female,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1996,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1996,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1996,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1996,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1997,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1997,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1997,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1997,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1997,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1997,female,35-54,medium_population,medium_suicides,low_hdi,low_gdp,Boomers
+Latvia,1997,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1997,female,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1997,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1998,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1998,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1998,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1998,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1998,female,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1998,female,55-74,medium_population,medium_suicides,low_hdi,low_gdp,Silent
+Latvia,1998,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1998,male,5-14,medium_population,medium_suicides,low_hdi,low_gdp,Millenials
+Latvia,1998,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1999,male,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1999,male,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1999,male,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1999,male,25-34,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,female,75+,low_population,high_suicides,low_hdi,low_gdp,G.I. Generation
+Latvia,1999,male,15-24,medium_population,high_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,female,55-74,medium_population,high_suicides,low_hdi,low_gdp,Silent
+Latvia,1999,female,35-54,medium_population,high_suicides,low_hdi,low_gdp,Boomers
+Latvia,1999,female,15-24,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,female,25-34,medium_population,medium_suicides,low_hdi,low_gdp,Generation X
+Latvia,1999,male,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,1999,female,5-14,medium_population,low_suicides,low_hdi,low_gdp,Millenials
+Latvia,2000,male,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Latvia,2000,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2000,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2000,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,female,75+,low_population,high_suicides,low_hdi,medium_gdp,G.I. Generation
+Latvia,2000,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2000,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2000,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2000,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2000,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2001,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2001,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2001,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2001,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2001,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2001,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2002,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2002,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,female,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2002,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2002,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2002,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2002,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2003,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2003,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2003,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2003,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2003,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2003,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2004,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2004,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2004,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2004,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2004,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2004,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2004,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2004,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2004,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2004,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2004,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2004,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2005,male,35-54,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Latvia,2005,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2005,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2005,male,75+,low_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2005,female,75+,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2005,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2005,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Latvia,2005,female,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Latvia,2005,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2005,male,5-14,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2005,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2005,female,5-14,medium_population,low_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2006,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2006,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2006,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2006,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2006,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2006,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2006,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2006,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2006,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2006,female,15-24,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2006,female,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2006,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2007,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2007,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2007,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2007,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2007,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2007,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2007,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2007,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2007,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2007,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2007,female,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Latvia,2007,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Latvia,2008,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2008,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2008,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2008,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2008,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2008,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2008,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2008,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2008,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2008,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2008,female,5-14,low_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Latvia,2008,male,5-14,medium_population,medium_suicides,low_hdi,medium_gdp,Generation Z
+Latvia,2009,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2009,male,55-74,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2009,male,35-54,medium_population,high_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2009,male,25-34,medium_population,high_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2009,male,15-24,medium_population,high_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2009,female,75+,medium_population,high_suicides,low_hdi,medium_gdp,Silent
+Latvia,2009,female,55-74,medium_population,medium_suicides,low_hdi,medium_gdp,Silent
+Latvia,2009,female,35-54,medium_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Latvia,2009,female,25-34,medium_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Latvia,2009,female,15-24,medium_population,medium_suicides,low_hdi,medium_gdp,Millenials
+Latvia,2009,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Latvia,2009,male,5-14,medium_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Latvia,2010,male,75+,low_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2010,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2010,male,35-54,medium_population,high_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2010,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2010,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2010,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Latvia,2010,female,75+,medium_population,medium_suicides,high_hdi,medium_gdp,Silent
+Latvia,2010,female,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2010,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2010,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2010,female,5-14,low_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Latvia,2010,male,5-14,low_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Latvia,2011,male,75+,low_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2011,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Latvia,2011,male,35-54,medium_population,high_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2011,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2011,male,15-24,medium_population,high_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2011,female,75+,medium_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2011,female,55-74,medium_population,medium_suicides,high_hdi,medium_gdp,Boomers
+Latvia,2011,female,25-34,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2011,female,35-54,medium_population,medium_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2011,female,15-24,medium_population,medium_suicides,high_hdi,medium_gdp,Millenials
+Latvia,2011,female,5-14,low_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Latvia,2011,male,5-14,low_population,low_suicides,high_hdi,medium_gdp,Generation Z
+Latvia,2012,male,35-54,medium_population,high_suicides,high_hdi,medium_gdp,Generation X
+Latvia,2012,male,75+,low_population,high_suicides,high_hdi,medium_gdp,Silent
+Latvia,2012,male,55-74,medium_population,high_suicides,high_hdi,medium_gdp,Boomers
+Latvia,2012,male,25-34,medium_population,high_suicides,high_hdi,medium_gdp,Millenials

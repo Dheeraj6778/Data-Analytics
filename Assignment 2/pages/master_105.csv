@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Grenada,1995,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,1995,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Grenada,1996,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Grenada,1996,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,1996,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,1996,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,1996,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,1996,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,1996,female,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Grenada,1996,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,1996,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,1996,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,1996,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,1996,male,75+,low_population,low_suicides,low_hdi,medium_gdp,G.I. Generation
+Grenada,2001,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2001,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2001,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2001,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2001,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2001,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2001,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2001,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2001,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2001,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2001,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2001,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2002,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2002,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2002,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2002,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2002,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2002,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2002,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2002,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2002,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2002,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2002,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2002,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2003,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Grenada,2003,male,35-54,low_population,high_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2003,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2003,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2003,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2003,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2003,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2003,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2003,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2003,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2003,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2003,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2004,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2004,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2004,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2004,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2004,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2004,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2004,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2004,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2004,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2004,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2004,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2004,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2005,male,75+,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Grenada,2005,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Grenada,2005,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2005,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2005,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2005,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2005,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2005,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2005,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2005,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2005,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2005,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2006,male,35-54,low_population,medium_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2006,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2006,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2006,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2006,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2006,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2006,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2006,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2006,male,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2006,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2006,male,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2006,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2007,male,55-74,low_population,high_suicides,low_hdi,medium_gdp,Silent
+Grenada,2007,female,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2007,male,25-34,low_population,medium_suicides,low_hdi,medium_gdp,Generation X
+Grenada,2007,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2007,female,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2007,female,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Grenada,2007,female,55-74,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2007,female,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2007,male,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2007,male,35-54,low_population,low_suicides,low_hdi,medium_gdp,Boomers
+Grenada,2007,male,5-14,low_population,low_suicides,low_hdi,medium_gdp,Generation Z
+Grenada,2007,male,75+,low_population,low_suicides,low_hdi,medium_gdp,Silent
+Grenada,2008,female,15-24,low_population,low_suicides,low_hdi,medium_gdp,Millenials
+Grenada,2008,female,25-34,low_population,low_suicides,low_hdi,medium_gdp,Generation X

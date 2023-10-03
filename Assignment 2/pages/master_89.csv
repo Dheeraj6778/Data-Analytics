@@ -1,0 +1,101 @@
+country,year,sex,age,population,suicides/100k pop,HDI for year,gdp_per_capita ($),generation
+Finland,2000,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Finland,2000,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Finland,2000,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Finland,2000,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,G.I. Generation
+Finland,2000,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Finland,2000,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Finland,2001,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2001,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Finland,2001,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2001,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2001,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Finland,2001,female,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2001,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2001,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2001,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Finland,2001,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2001,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2001,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Finland,2002,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2002,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2002,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2002,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Finland,2002,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Finland,2002,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Finland,2002,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2002,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Finland,2002,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2002,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2002,male,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Finland,2002,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Finland,2003,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2003,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2003,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2003,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Finland,2003,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Finland,2003,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Finland,2003,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2003,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2003,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2003,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Finland,2003,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2003,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Finland,2004,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2004,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2004,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2004,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Finland,2004,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Finland,2004,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Finland,2004,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2004,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Finland,2004,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2004,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2004,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2004,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Finland,2005,male,75+,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Finland,2005,male,35-54,medium_population,high_suicides,high_hdi,high_gdp,Boomers
+Finland,2005,male,55-74,medium_population,high_suicides,high_hdi,high_gdp,Silent
+Finland,2005,male,25-34,medium_population,high_suicides,high_hdi,high_gdp,Generation X
+Finland,2005,male,15-24,medium_population,high_suicides,high_hdi,high_gdp,Millenials
+Finland,2005,female,35-54,medium_population,medium_suicides,high_hdi,high_gdp,Boomers
+Finland,2005,female,55-74,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Finland,2005,female,15-24,medium_population,medium_suicides,high_hdi,high_gdp,Millenials
+Finland,2005,female,25-34,medium_population,medium_suicides,high_hdi,high_gdp,Generation X
+Finland,2005,female,75+,medium_population,medium_suicides,high_hdi,high_gdp,Silent
+Finland,2005,female,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Finland,2005,male,5-14,medium_population,low_suicides,high_hdi,high_gdp,Millenials
+Finland,2006,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2006,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2006,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Finland,2006,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2006,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Finland,2006,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Finland,2006,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2006,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Finland,2006,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2006,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2006,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2006,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Millenials
+Finland,2007,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2007,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2007,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2007,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Finland,2007,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Finland,2007,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2007,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Finland,2007,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2007,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Finland,2007,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2007,male,5-14,medium_population,medium_suicides,low_hdi,high_gdp,Generation Z
+Finland,2007,female,5-14,medium_population,low_suicides,low_hdi,high_gdp,Generation Z
+Finland,2008,male,35-54,medium_population,high_suicides,low_hdi,high_gdp,Boomers
+Finland,2008,male,55-74,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2008,male,25-34,medium_population,high_suicides,low_hdi,high_gdp,Generation X
+Finland,2008,male,75+,medium_population,high_suicides,low_hdi,high_gdp,Silent
+Finland,2008,male,15-24,medium_population,high_suicides,low_hdi,high_gdp,Millenials
+Finland,2008,female,35-54,medium_population,medium_suicides,low_hdi,high_gdp,Boomers
+Finland,2008,female,55-74,medium_population,medium_suicides,low_hdi,high_gdp,Silent
+Finland,2008,female,25-34,medium_population,medium_suicides,low_hdi,high_gdp,Generation X
+Finland,2008,female,15-24,medium_population,medium_suicides,low_hdi,high_gdp,Millenials
+Finland,2008,female,75+,medium_population,medium_suicides,low_hdi,high_gdp,Silent
