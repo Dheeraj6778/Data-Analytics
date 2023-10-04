@@ -1,0 +1,101 @@
+Rule , Support , Confidence 
+Shawshank Redemption, The (1994)-> {Forrest Gump (1994)} , 134 , 0.5275590551181102 
+Forrest Gump (1994)-> {Shawshank Redemption, The (1994)} , 134 , 0.5469387755102041 
+Shawshank Redemption, The (1994)-> {Pulp Fiction (1994)} , 133 , 0.5236220472440944 
+Pulp Fiction (1994)-> {Shawshank Redemption, The (1994)} , 133 , 0.5732758620689655 
+Pulp Fiction (1994)-> {Silence of the Lambs, The (1991)} , 132 , 0.5689655172413793 
+Silence of the Lambs, The (1991)-> {Pulp Fiction (1994)} , 132 , 0.5714285714285714 
+Forrest Gump (1994)-> {Jurassic Park (1993)} , 124 , 0.5061224489795918 
+Jurassic Park (1993)-> {Forrest Gump (1994)} , 124 , 0.656084656084656 
+Lord of the Rings: The Fellowship of the Ring, The (2001)-> {Lord of the Rings: The Two Towers, The (2002)} , 113 , 0.743421052631579 
+Lord of the Rings: The Two Towers, The (2002)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 113 , 0.7687074829931972 
+Pulp Fiction (1994)-> {Matrix, The (1999)} , 111 , 0.47844827586206895 
+Matrix, The (1999)-> {Pulp Fiction (1994)} , 111 , 0.5336538461538461 
+Shawshank Redemption, The (1994)-> {Schindler's List (1993)} , 109 , 0.42913385826771655 
+Schindler's List (1993)-> {Shawshank Redemption, The (1994)} , 109 , 0.6855345911949685 
+Matrix, The (1999)-> {Fight Club (1999)} , 109 , 0.5240384615384616 
+Fight Club (1999)-> {Matrix, The (1999)} , 109 , 0.6449704142011834 
+Pulp Fiction (1994)-> {Usual Suspects, The (1995)} , 109 , 0.4698275862068966 
+Usual Suspects, The (1995)-> {Pulp Fiction (1994)} , 109 , 0.6449704142011834 
+Jurassic Park (1993)-> {Terminator 2: Judgment Day (1991)} , 106 , 0.5608465608465608 
+Terminator 2: Judgment Day (1991)-> {Jurassic Park (1993)} , 106 , 0.654320987654321 
+Lord of the Rings: The Fellowship of the Ring, The (2001)-> {Lord of the Rings: The Return of the King, The (2003)} , 105 , 0.6907894736842105 
+Lord of the Rings: The Return of the King, The (2003)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 105 , 0.7446808510638298 
+Star Wars: Episode IV - A New Hope (1977)-> {Star Wars: Episode V - The Empire Strikes Back (1980)} , 105 , 0.5645161290322581 
+Star Wars: Episode V - The Empire Strikes Back (1980)-> {Star Wars: Episode IV - A New Hope (1977)} , 105 , 0.7 
+Pulp Fiction (1994)-> {Seven (a.k.a. Se7en) (1995)} , 102 , 0.4396551724137931 
+Seven (a.k.a. Se7en) (1995)-> {Pulp Fiction (1994)} , 102 , 0.7083333333333334 
+Silence of the Lambs, The (1991)-> {Star Wars: Episode IV - A New Hope (1977)} , 102 , 0.44155844155844154 
+Star Wars: Episode IV - A New Hope (1977)-> {Silence of the Lambs, The (1991)} , 102 , 0.5483870967741935 
+Forrest Gump (1994)-> {Braveheart (1995)} , 101 , 0.4122448979591837 
+Braveheart (1995)-> {Forrest Gump (1994)} , 101 , 0.5872093023255814 
+Star Wars: Episode IV - A New Hope (1977)-> {Star Wars: Episode VI - Return of the Jedi (1983)} , 99 , 0.532258064516129 
+Star Wars: Episode VI - Return of the Jedi (1983)-> {Star Wars: Episode IV - A New Hope (1977)} , 99 , 0.6644295302013423 
+Star Wars: Episode IV - A New Hope (1977)-> {Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)} , 97 , 0.521505376344086 
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)-> {Star Wars: Episode IV - A New Hope (1977)} , 97 , 0.6178343949044586 
+Matrix, The (1999)-> {Saving Private Ryan (1998)} , 94 , 0.4519230769230769 
+Saving Private Ryan (1998)-> {Matrix, The (1999)} , 94 , 0.6619718309859155 
+Matrix, The (1999)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 94 , 0.4519230769230769 
+Lord of the Rings: The Fellowship of the Ring, The (2001)-> {Matrix, The (1999)} , 94 , 0.618421052631579 
+Matrix, The (1999)-> {Sixth Sense, The (1999)} , 90 , 0.4326923076923077 
+Sixth Sense, The (1999)-> {Matrix, The (1999)} , 90 , 0.6818181818181818 
+Forrest Gump (1994)-> {Apollo 13 (1995)} , 90 , 0.3673469387755102 
+Apollo 13 (1995)-> {Forrest Gump (1994)} , 90 , 0.6293706293706294 
+Pulp Fiction (1994)-> {Fargo (1996)} , 89 , 0.38362068965517243 
+Fargo (1996)-> {Pulp Fiction (1994)} , 89 , 0.6402877697841727 
+Silence of the Lambs, The (1991)-> {American Beauty (1999)} , 89 , 0.3852813852813853 
+American Beauty (1999)-> {Silence of the Lambs, The (1991)} , 89 , 0.5855263157894737 
+Jurassic Park (1993)-> {Fugitive, The (1993)} , 88 , 0.4656084656084656 
+Fugitive, The (1993)-> {Jurassic Park (1993)} , 88 , 0.6330935251798561 
+Forrest Gump (1994)-> {Aladdin (1992)} , 88 , 0.35918367346938773 
+Aladdin (1992)-> {Forrest Gump (1994)} , 88 , 0.6111111111111112 
+Forrest Gump (1994)-> {Lion King, The (1994)} , 86 , 0.3510204081632653 
+Lion King, The (1994)-> {Forrest Gump (1994)} , 86 , 0.6615384615384615 
+Pulp Fiction (1994)-> {Batman (1989)} , 86 , 0.3706896551724138 
+Batman (1989)-> {Pulp Fiction (1994)} , 86 , 0.6142857142857143 
+Pulp Fiction (1994)-> {Twelve Monkeys (a.k.a. 12 Monkeys) (1995)} , 86 , 0.3706896551724138 
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)-> {Pulp Fiction (1994)} , 86 , 0.6013986013986014 
+Silence of the Lambs, The (1991)-> {Dances with Wolves (1990)} , 85 , 0.36796536796536794 
+Dances with Wolves (1990)-> {Silence of the Lambs, The (1991)} , 85 , 0.648854961832061 
+Forrest Gump (1994)-> {Toy Story (1995)} , 85 , 0.3469387755102041 
+Toy Story (1995)-> {Forrest Gump (1994)} , 85 , 0.49707602339181284 
+Matrix, The (1999)-> {Gladiator (2000)} , 84 , 0.40384615384615385 
+Gladiator (2000)-> {Matrix, The (1999)} , 84 , 0.6614173228346457 
+Lord of the Rings: The Fellowship of the Ring, The (2001)-> {Lord of the Rings: The Two Towers, The (2002),Lord of the Rings: The Return of the King, The (2003)} , 83 , 0.5460526315789473 
+Lord of the Rings: The Two Towers, The (2002)-> {Lord of the Rings: The Fellowship of the Ring, The (2001),Lord of the Rings: The Return of the King, The (2003)} , 83 , 0.564625850340136 
+Lord of the Rings: The Return of the King, The (2003)-> {Lord of the Rings: The Fellowship of the Ring, The (2001),Lord of the Rings: The Two Towers, The (2002)} , 83 , 0.5886524822695035 
+Forrest Gump (1994)-> {Speed (1994)} , 81 , 0.3306122448979592 
+Speed (1994)-> {Forrest Gump (1994)} , 81 , 0.680672268907563 
+Forrest Gump (1994)-> {Back to the Future (1985)} , 81 , 0.3306122448979592 
+Back to the Future (1985)-> {Forrest Gump (1994)} , 81 , 0.6428571428571429 
+Forrest Gump (1994)-> {Pirates of the Caribbean: The Curse of the Black Pearl (2003)} , 80 , 0.32653061224489793 
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)-> {Forrest Gump (1994)} , 80 , 0.6557377049180327 
+Forrest Gump (1994)-> {Independence Day (a.k.a. ID4) (1996)} , 80 , 0.32653061224489793 
+Independence Day (a.k.a. ID4) (1996)-> {Forrest Gump (1994)} , 80 , 0.583941605839416 
+Matrix, The (1999)-> {Memento (2000)} , 79 , 0.3798076923076923 
+Memento (2000)-> {Matrix, The (1999)} , 79 , 0.6475409836065574 
+Pulp Fiction (1994)-> {Shawshank Redemption, The (1994),Silence of the Lambs, The (1991)} , 79 , 0.34051724137931033 
+Shawshank Redemption, The (1994)-> {Pulp Fiction (1994),Silence of the Lambs, The (1991)} , 79 , 0.3110236220472441 
+Silence of the Lambs, The (1991)-> {Pulp Fiction (1994),Shawshank Redemption, The (1994)} , 79 , 0.341991341991342 
+Aladdin (1992)-> {Beauty and the Beast (1991)} , 78 , 0.5416666666666666 
+Beauty and the Beast (1991)-> {Aladdin (1992)} , 78 , 0.7289719626168224 
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)-> {Indiana Jones and the Last Crusade (1989)} , 77 , 0.49044585987261147 
+Indiana Jones and the Last Crusade (1989)-> {Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)} , 77 , 0.7 
+Matrix, The (1999)-> {Shrek (2001)} , 77 , 0.3701923076923077 
+Shrek (2001)-> {Matrix, The (1999)} , 77 , 0.6015625 
+Batman (1989)-> {True Lies (1994)} , 77 , 0.55 
+True Lies (1994)-> {Batman (1989)} , 77 , 0.6015625 
+Star Wars: Episode IV - A New Hope (1977)-> {Godfather, The (1972)} , 77 , 0.41397849462365593 
+Godfather, The (1972)-> {Star Wars: Episode IV - A New Hope (1977)} , 77 , 0.5746268656716418 
+Godfather, The (1972)-> {Godfather: Part II, The (1974)} , 75 , 0.5597014925373134 
+Godfather: Part II, The (1974)-> {Godfather, The (1972)} , 75 , 0.7425742574257426 
+Forrest Gump (1994)-> {Mrs. Doubtfire (1993)} , 75 , 0.30612244897959184 
+Mrs. Doubtfire (1993)-> {Forrest Gump (1994)} , 75 , 0.7352941176470589 
+Matrix, The (1999)-> {Dark Knight, The (2008)} , 75 , 0.3605769230769231 
+Dark Knight, The (2008)-> {Matrix, The (1999)} , 75 , 0.6302521008403361 
+Shawshank Redemption, The (1994)-> {Forrest Gump (1994),Pulp Fiction (1994)} , 75 , 0.2952755905511811 
+Forrest Gump (1994)-> {Shawshank Redemption, The (1994),Pulp Fiction (1994)} , 75 , 0.30612244897959184 
+Pulp Fiction (1994)-> {Shawshank Redemption, The (1994),Forrest Gump (1994)} , 75 , 0.3232758620689655 
+Forrest Gump (1994)-> {Pretty Woman (1990)} , 74 , 0.3020408163265306 
+Pretty Woman (1990)-> {Forrest Gump (1994)} , 74 , 0.7474747474747475 
+Matrix, The (1999)-> {Terminator, The (1984)} , 74 , 0.3557692307692308 

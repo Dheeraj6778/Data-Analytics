@@ -1,0 +1,101 @@
+Rule , Support , Confidence 
+Kill Bill: Vol. 2 (2004)-> {Kill Bill: Vol. 1 (2003)} , 65 , 0.7926829268292683 
+Dave (1993)-> {Forrest Gump (1994)} , 53 , 0.7910447761194029 
+Matrix Reloaded, The (2003)-> {Matrix, The (1999)} , 51 , 0.7846153846153846 
+Lord of the Rings: The Two Towers, The (2002)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 113 , 0.7687074829931972 
+Iron Man (2008)-> {Dark Knight, The (2008)} , 53 , 0.7571428571428571 
+Pretty Woman (1990)-> {Forrest Gump (1994)} , 74 , 0.7474747474747475 
+Sleepless in Seattle (1993)-> {Forrest Gump (1994)} , 56 , 0.7466666666666667 
+Wizard of Oz, The (1939)-> {Silence of the Lambs, The (1991)} , 56 , 0.7466666666666667 
+Lord of the Rings: The Return of the King, The (2003)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 105 , 0.7446808510638298 
+Lord of the Rings: The Fellowship of the Ring, The (2001)-> {Lord of the Rings: The Two Towers, The (2002)} , 113 , 0.743421052631579 
+Godfather: Part II, The (1974)-> {Godfather, The (1972)} , 75 , 0.7425742574257426 
+Spider-Man 2 (2004)-> {Pirates of the Caribbean: The Curse of the Black Pearl (2003)} , 51 , 0.7391304347826086 
+Shrek 2 (2004)-> {Shrek (2001)} , 51 , 0.7391304347826086 
+Mrs. Doubtfire (1993)-> {Forrest Gump (1994)} , 75 , 0.7352941176470589 
+Four Weddings and a Funeral (1994)-> {Forrest Gump (1994)} , 55 , 0.7333333333333333 
+Beauty and the Beast (1991)-> {Aladdin (1992)} , 78 , 0.7289719626168224 
+Bourne Identity, The (2002)-> {Matrix, The (1999)} , 59 , 0.7283950617283951 
+Star Wars: Episode I - The Phantom Menace (1999)-> {Matrix, The (1999)} , 59 , 0.7283950617283951 
+Minority Report (2002)-> {Matrix, The (1999)} , 63 , 0.7241379310344828 
+Departed, The (2006)-> {Fight Club (1999)} , 64 , 0.7191011235955056 
+Terminator, The (1984)-> {Matrix, The (1999)} , 74 , 0.7184466019417476 
+Home Alone (1990)-> {Forrest Gump (1994)} , 51 , 0.7183098591549296 
+Inglourious Basterds (2009)-> {Matrix, The (1999)} , 51 , 0.7183098591549296 
+Goodfellas (1990)-> {Pulp Fiction (1994)} , 69 , 0.711340206185567 
+Indiana Jones and the Temple of Doom (1984)-> {Indiana Jones and the Last Crusade (1989)} , 56 , 0.7088607594936709 
+Seven (a.k.a. Se7en) (1995)-> {Pulp Fiction (1994)} , 102 , 0.7083333333333334 
+Batman Begins (2005)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 63 , 0.7078651685393258 
+Firm, The (1993)-> {Fugitive, The (1993)} , 53 , 0.7066666666666667 
+Catch Me If You Can (2002)-> {Forrest Gump (1994)} , 60 , 0.7058823529411765 
+Kill Bill: Vol. 1 (2003)-> {Fight Club (1999)} , 74 , 0.7047619047619048 
+Outbreak (1995)-> {Fugitive, The (1993)} , 50 , 0.704225352112676 
+Toy Story 2 (1999)-> {Toy Story (1995)} , 54 , 0.7012987012987013 
+Cast Away (2000)-> {Matrix, The (1999)} , 56 , 0.7 
+Indiana Jones and the Last Crusade (1989)-> {Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)} , 77 , 0.7 
+Star Wars: Episode V - The Empire Strikes Back (1980)-> {Star Wars: Episode IV - A New Hope (1977)} , 105 , 0.7 
+Harry Potter and the Prisoner of Azkaban (2004)-> {Pirates of the Caribbean: The Curse of the Black Pearl (2003)} , 51 , 0.6986301369863014 
+Crimson Tide (1995)-> {True Lies (1994)} , 57 , 0.6951219512195121 
+V for Vendetta (2006)-> {Fight Club (1999)} , 52 , 0.6933333333333334 
+Trainspotting (1996)-> {Silence of the Lambs, The (1991)} , 54 , 0.6923076923076923 
+Donnie Darko (2001)-> {Fight Club (1999)} , 54 , 0.6923076923076923 
+Fifth Element, The (1997)-> {Matrix, The (1999)} , 65 , 0.6914893617021277 
+Lord of the Rings: The Fellowship of the Ring, The (2001)-> {Lord of the Rings: The Return of the King, The (2003)} , 105 , 0.6907894736842105 
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994)-> {Pulp Fiction (1994)} , 71 , 0.6893203883495146 
+Aliens (1986)-> {Alien (1979)} , 62 , 0.6888888888888889 
+Reservoir Dogs (1992)-> {Pulp Fiction (1994)} , 70 , 0.6862745098039216 
+Shining, The (1980)-> {Silence of the Lambs, The (1991)} , 59 , 0.686046511627907 
+Schindler's List (1993)-> {Shawshank Redemption, The (1994)} , 109 , 0.6855345911949685 
+Green Mile, The (1999)-> {Shawshank Redemption, The (1994)} , 61 , 0.6853932584269663 
+Harry Potter and the Chamber of Secrets (2002)-> {Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)} , 54 , 0.6835443037974683 
+Sixth Sense, The (1999)-> {Matrix, The (1999)} , 90 , 0.6818181818181818 
+Speed (1994)-> {Forrest Gump (1994)} , 81 , 0.680672268907563 
+Being John Malkovich (1999)-> {Silence of the Lambs, The (1991)} , 55 , 0.6790123456790124 
+X-Men (2000)-> {Matrix, The (1999)} , 63 , 0.6774193548387096 
+Mask, The (1994)-> {Forrest Gump (1994)} , 70 , 0.6730769230769231 
+Taxi Driver (1976)-> {Pulp Fiction (1994)} , 55 , 0.6707317073170732 
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 57 , 0.6705882352941176 
+Clear and Present Danger (1994)-> {Forrest Gump (1994)} , 57 , 0.6705882352941176 
+American History X (1998)-> {Pulp Fiction (1994)} , 69 , 0.6699029126213593 
+Star Wars: Episode VI - Return of the Jedi (1983)-> {Star Wars: Episode IV - A New Hope (1977)} , 99 , 0.6644295302013423 
+Truman Show, The (1998)-> {Shawshank Redemption, The (1994)} , 63 , 0.6631578947368421 
+Snatch (2000)-> {Matrix, The (1999)} , 51 , 0.6623376623376623 
+Saving Private Ryan (1998)-> {Matrix, The (1999)} , 94 , 0.6619718309859155 
+Lion King, The (1994)-> {Forrest Gump (1994)} , 86 , 0.6615384615384615 
+Gladiator (2000)-> {Matrix, The (1999)} , 84 , 0.6614173228346457 
+Monty Python and the Holy Grail (1975)-> {Silence of the Lambs, The (1991)} , 72 , 0.6605504587155964 
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)-> {Matrix, The (1999)} , 62 , 0.6595744680851063 
+Batman Forever (1995)-> {Batman (1989)} , 56 , 0.6588235294117647 
+Ferris Bueller's Day Off (1986)-> {Matrix, The (1999)} , 54 , 0.6585365853658537 
+Finding Nemo (2003)-> {Matrix, The (1999)} , 69 , 0.6571428571428571 
+Jurassic Park (1993)-> {Forrest Gump (1994)} , 124 , 0.656084656084656 
+Ocean's Eleven (2001)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 61 , 0.6559139784946236 
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)-> {Forrest Gump (1994)} , 80 , 0.6557377049180327 
+Dumb & Dumber (Dumb and Dumber) (1994)-> {Forrest Gump (1994)} , 55 , 0.6547619047619048 
+Terminator 2: Judgment Day (1991)-> {Jurassic Park (1993)} , 106 , 0.654320987654321 
+Full Metal Jacket (1987)-> {Pulp Fiction (1994)} , 51 , 0.6538461538461539 
+Clockwork Orange, A (1971)-> {Fight Club (1999)} , 62 , 0.6526315789473685 
+Star Trek: Generations (1994)-> {Jurassic Park (1993)} , 52 , 0.65 
+L.A. Confidential (1997)-> {Fargo (1996)} , 50 , 0.6493506493506493 
+Dances with Wolves (1990)-> {Silence of the Lambs, The (1991)} , 85 , 0.648854961832061 
+Spider-Man (2002)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 59 , 0.6483516483516484 
+Memento (2000)-> {Matrix, The (1999)} , 79 , 0.6475409836065574 
+Ghostbusters (a.k.a. Ghost Busters) (1984)-> {Matrix, The (1999)} , 55 , 0.6470588235294118 
+Fight Club (1999)-> {Matrix, The (1999)} , 109 , 0.6449704142011834 
+Usual Suspects, The (1995)-> {Pulp Fiction (1994)} , 109 , 0.6449704142011834 
+Back to the Future (1985)-> {Forrest Gump (1994)} , 81 , 0.6428571428571429 
+Fargo (1996)-> {Pulp Fiction (1994)} , 89 , 0.6402877697841727 
+Groundhog Day (1993)-> {Shawshank Redemption, The (1994)} , 71 , 0.6396396396396397 
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)-> {Harry Potter and the Chamber of Secrets (2002)} , 54 , 0.6352941176470588 
+Apocalypse Now (1979)-> {Pulp Fiction (1994)} , 54 , 0.6352941176470588 
+E.T. the Extra-Terrestrial (1982)-> {Silence of the Lambs, The (1991)} , 54 , 0.6352941176470588 
+Blade Runner (1982)-> {Matrix, The (1999)} , 57 , 0.6333333333333333 
+Fugitive, The (1993)-> {Jurassic Park (1993)} , 88 , 0.6330935251798561 
+Die Hard: With a Vengeance (1995)-> {True Lies (1994)} , 65 , 0.6310679611650486 
+Dark Knight, The (2008)-> {Matrix, The (1999)} , 75 , 0.6302521008403361 
+Eternal Sunshine of the Spotless Mind (2004)-> {Matrix, The (1999)} , 63 , 0.63 
+Twister (1996)-> {Independence Day (a.k.a. ID4) (1996)} , 51 , 0.6296296296296297 
+Die Hard (1988)-> {Matrix, The (1999)} , 68 , 0.6296296296296297 
+Apollo 13 (1995)-> {Forrest Gump (1994)} , 90 , 0.6293706293706294 
+Incredibles, The (2004)-> {Lord of the Rings: The Fellowship of the Ring, The (2001)} , 56 , 0.6292134831460674 
+Monsters, Inc. (2001)-> {Matrix, The (1999)} , 62 , 0.6262626262626263 
